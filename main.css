@@ -24,7 +24,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
-	line-height: 1;
+  line-height: 1;
 }
 ol, ul {
 	list-style: none;
@@ -44,9 +44,30 @@ table {
 
 /* --- SHIT STARTS HERE --- */
 
+body {
+  font-size: 18px;
+  line-height: 32px;
+  color: #333;
+}
+
+h1 {
+  font-size: 28.8px;
+}
+
+h2 {
+  font-size: 25.6px;
+  color: #e5127d;
+}
+
 .head {
   background-color: rgba(220, 20, 60, .5);
   font-family: "Cinzel Decorative";
+}
+
+#2nd-row {
+  font-size: 18px;
+  letter-spacing: 2px;
+  color: #8c8e9b;
 }
 
 .main {
