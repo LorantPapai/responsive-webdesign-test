@@ -1,3 +1,5 @@
+/* --- SIMPLE CSS RESET BY ERIC MEYER --- */
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -64,7 +66,7 @@ h2 {
   font-family: "Cinzel Decorative";
 }
 
-#2nd-row {
+.head p {
   font-size: 18px;
   letter-spacing: 2px;
   color: #8c8e9b;
